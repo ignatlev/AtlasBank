@@ -4,7 +4,7 @@
 
 Before running the application, you must configure the required connection settings.
 
-The project uses an external configuration file (`App.Local.config`) to store sensitive data such as:
+The project uses an external configuration file (`App.config`) to store sensitive data such as:
 
 - Database connection string
 - SMTP password for email services
